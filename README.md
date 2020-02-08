@@ -25,3 +25,7 @@ https://www.youtube.com/watch?v=V5lrAfh7H_c
 ## Angular Http
 
 https://www.youtube.com/watch?v=AVabGGc96Nc
+
+## Angular Router
+
+https://www.youtube.com/watch?v=
