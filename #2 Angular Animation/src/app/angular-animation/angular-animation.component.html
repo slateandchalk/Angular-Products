@@ -1,0 +1,5 @@
+<button (click)="toggle()">Open/Close</button>
+
+<div class="oc-container" [@openclose]="isOpen ? 'open' : 'close'">
+    <p>Now state {{isOpen ? 'open' : 'close'}}</p>
+</div>
