@@ -1,0 +1,5 @@
+<nav *ngFor="let configx of config | slice:0:3">
+    <a (click)="onSelect(configx)">ID: {{configx.id}} - User ID: {{configx.userId}}</a>
+</nav>
+
+<router-outlet></router-outlet>
